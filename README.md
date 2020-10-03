@@ -19,3 +19,5 @@ The web gallery displayed with [Fotorama.io](https://fotorama.io/).
 `python3 tfviewer.py datasets/imagenet/imagenet_fullres/tfrecord/train-00000-of-01024 --overlay classification`
 
 ![Classification example](http://cmp.felk.cvut.cz/~sulcmila/tfrecord-viewer/classification.png)
+
+[![DeepSource](https://deepsource.io/gh/MITsVision/tfrecord-viewer.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/MITsVision/tfrecord-viewer/?ref=repository-badge)
